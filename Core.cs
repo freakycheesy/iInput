@@ -1,9 +1,8 @@
 ﻿global using UnityEngine;
 global using Vector2 = UnityEngine.Vector2;
 using MelonLoader;
-using UnityEngine.InputSystem;
 
-[assembly: MelonInfo(typeof(iInput.Core), "iInput", "1.0.0", "pietr", null)]
+[assembly: MelonInfo(typeof(iInput.Core), "iInput", "1.0.0", "freakycheesy", null)]
 [assembly: MelonGame("Stress Level Zero", "BONELAB")]
 
 namespace iInput
